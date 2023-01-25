@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-18T22:28:54 IST" name="Default suite" finished-at="2022-11-18T22:30:56 IST" duration-ms="122614">
+    <groups>
+    </groups>
+    <test started-at="2022-11-18T22:28:54 IST" name="Default test" finished-at="2022-11-18T22:30:56 IST" duration-ms="122614">
+      <class name="mavenpractice.guruloin">
+        <test-method signature="gurulogin()[pri:0, instance:mavenpractice.guruloin@222545dc]" started-at="2022-11-18T22:28:54 IST" name="gurulogin" finished-at="2022-11-18T22:30:56 IST" duration-ms="122379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gurulogin -->
+      </class> <!-- mavenpractice.guruloin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
